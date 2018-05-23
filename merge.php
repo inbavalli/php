@@ -1,0 +1,9 @@
+<html>
+<body>
+<?php
+$b=array(tamil,english);
+$c=array(maths,science);
+print_r(array_merge($b,$c));
+?>
+</body>
+</html>
